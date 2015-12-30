@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80693559999997,
+          38.0690894,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Point Reyes Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34400710000001,
+          37.5793583,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Burlingame Museum of PEZ Memorabilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.83747770000001,
+          39.7284944,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Chico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.18325329999999,
+          39.327962,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Truckee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.77704069999997,
+          39.4748693,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Fallon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6448736,
+          40.0626873,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Toulon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.03751019999999,
+          40.7371524,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Wendover"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9632373,
+          41.2682794,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Evanston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.66298319999999,
+          41.23565869999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Kimball"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4343907,
+          39.5094301,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Cawker City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6851982,
+          40.8257625,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Lincoln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99798829999997,
+          41.2523634,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Omaha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.41027780000002,
+          45.09861110000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Darwin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22593489999997,
+          44.08555719999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Owatonna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26501080000004,
+          44.977753,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Minneapolis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.06790160000003,
+          43.17526950000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Spring Green"
+      }
+    }
+  ]
+}
