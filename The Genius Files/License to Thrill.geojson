@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.52302420000001,
+          33.3942655,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Roswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.96026499999999,
+          32.8995325,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Alamogordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.89141589999997,
+          34.0583995,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Socorro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.60555340000002,
+          35.0853336,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Albuquerque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.05370170000003,
+          35.3539127,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Lupton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.76098960000002,
+          34.8697395,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Sedona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1401108,
+          36.0544445,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Grand Canyon Village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.73773249999999,
+          36.01606550000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Hoover Dam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13982959999998,
+          36.1699412,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Las Vegas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.07390729999997,
+          35.2675155,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Baker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.93254079999998,
+          36.53226490000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Death Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47825510000001,
+          37.8199286,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7c3592",
+        "name": "Golden Gate Bridge"
+      }
+    }
+  ]
+}

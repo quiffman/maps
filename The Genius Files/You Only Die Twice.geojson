@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03687070000001,
+          38.9071923,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.99625120000002,
+          38.47296319999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Culpeper"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.45945219999999,
+          38.665397,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Luray"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08503200000001,
+          38.3448488,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Mount Solon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44281569999998,
+          37.78402080000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Lexington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39502279999999,
+          36.5859718,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Danville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00531760000001,
+          35.9556923,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "High Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63817870000003,
+          35.7795897,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Raleigh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58163530000002,
+          35.2626635,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Kinston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04411429999999,
+          35.108493,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "New Bern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0230416,
+          34.82822350000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Rose Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37115790000001,
+          34.4165505,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Dillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03481440000002,
+          34.0007104,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Columbia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44345479999998,
+          34.967616700000015,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Travelers Rest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93208700000002,
+          34.3528825,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Hartwell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.68827499999999,
+          34.64387099999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "2319 Duncan Bridge Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3879824,
+          33.7489954,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Atlanta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34773430000001,
+          34.480642,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Summerville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58610369999997,
+          34.7303688,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Huntsville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7033859,
+          34.2576066,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Tupelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0489801,
+          35.1495343,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#4186f0",
+        "name": "Memphis"
+      }
+    }
+  ]
+}

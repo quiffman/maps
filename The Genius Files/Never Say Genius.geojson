@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5042876,
+          43.09721740000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Middleton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.83705090000002,
+          42.9288944,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Fort Atkinson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88339910000002,
+          42.03336229999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Des Plaines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62979819999998,
+          41.8781136,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Chicago"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34642710000003,
+          41.5933696,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Gary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17614550000002,
+          41.5758707,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Portage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0808384,
+          41.79560379999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Edwardsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03471860000002,
+          41.17337709999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Mentone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0688811,
+          40.75365279999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Peru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.497476,
+          40.8831011,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Huntington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26497540000003,
+          41.4414384,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Kendallville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5805082,
+          41.1381051,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Paulding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521199999998,
+          41.6639383,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Toledo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70796050000001,
+          41.4489396,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Sandusky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.03542249999998,
+          41.45170929999999,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Avon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69436050000002,
+          41.49932,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Cleveland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8418006,
+          41.2381096,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Brunswick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40233560000001,
+          40.875891,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "North Canton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.07808310000001,
+          40.008411,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Somerset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.82055079999998,
+          39.60065230000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "Williamsport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93776000000003,
+          38.9896967,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#62af44",
+        "name": "College Park"
+      }
+    }
+  ]
+}

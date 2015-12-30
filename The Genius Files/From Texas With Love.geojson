@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.02604930000001,
+          35.0476912,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Graceland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.28959479999997,
+          34.7464809,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Little Rock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5212702,
+          34.5556489,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Bauxite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05517950000001,
+          34.5037004,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Hot Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.62355789999998,
+          35.0537094,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Poteau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.39712329999998,
+          33.9924186,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Durant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.53665799999999,
+          33.7556593,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Denison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.55551300000002,
+          33.6609389,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Paris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79698789999999,
+          32.7766642,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Dallas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.10806559999997,
+          32.735687,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Arlington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1128223,
+          32.8084605,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Mineral Wells"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.14666950000003,
+          31.549333,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Waco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74306079999997,
+          30.267153,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49362819999999,
+          29.4241219,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "San Antonio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8551665,
+          33.5778631,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Lubbock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.52302420000001,
+          33.3942655,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffdd5e",
+        "name": "Roswell"
+      }
+    }
+  ]
+}
