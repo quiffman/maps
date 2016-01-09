@@ -201,6 +201,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -92.97463,
+          43.66662,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#db4436",
+        "name": "Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -93.22593489999997,
           44.08555719999999,
           0
